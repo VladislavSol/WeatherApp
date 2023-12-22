@@ -10,4 +10,4 @@ Language: Java.
 [Diagrams](https://github.com/VladislavSol/WeatherApp/blob/main/Diagrams/Diagrams.md)      
 
 [Test plan](https://github.com/VladislavSol/WeatherApp/blob/main/Test%20plan.md)      
-[Test result]()      
+[Test result](https://github.com/VladislavSol/WeatherApp/blob/main/Test%20result.md)      
